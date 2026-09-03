@@ -89,11 +89,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=OviIslamAbir&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6E6E6&icon_color=FF6AC1&ring_color=A78BFA" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OviIslamAbir&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6AC1&currStreakLabel=00D9FF" width="48%"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OviIslamAbir&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6E6E6&icon_color=FF6AC1" width="45%"/>
 
 </div>
 
