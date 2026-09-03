@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/OviIslamAbir/OviIslamAbir/main/particles.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5B3A9E,70:C13584,100:00D9FF&height=230&section=header&text=OVI%20ISLAM%20ABIR&fontSize=62&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=58&descColor=FF6AC1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5B3A9E,70:C13584,100:00D9FF&height=230&section=header&text=OVI%20ISLAM%20ABIR&fontSize=62&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=58&descColor=FFFFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;FULL-STACK+DEVELOPER;CSE+STUDENT+%40+BUBT;NEXT.JS+%2B+PRISMA+%2B+POSTGRESQL;FIVERR+FREELANCER+%C2%B7+E-COMMERCE+BUILDER"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;FULL-STACK+DEVELOPER;NEXT.JS+%2B+PRISMA+%2B+POSTGRESQL;"/>
 
 <br>
 
@@ -34,7 +34,6 @@
 │  OPERATOR    : OVI ISLAM ABIR (ABIR)                      │
 │  ROLE        : FULL-STACK SOFTWARE ENGINEER               │
 │  ACADEMICS   : CSE STUDENT @ BUBT                         │
-│  FREELANCE   : FIVERR FREELANCER (E-COMMERCE & WEB APPS)  │
 │  LOCATION    : DHAKA, BANGLADESH                          │
 │  STATUS      : BUILDING & SHIPPING                        │
 │                                                           │
