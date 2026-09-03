@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=OviIslmAbir&label=PROFILE%20VIEWS&color=ff00ff&style=for-the-badge&labelColor=0D0221"/>
-<img src="https://img.shields.io/github/followers/OviIslmAbir?label=FOLLOWERS&style=for-the-badge&color=6D28D9&labelColor=0D0221"/>
-<img src="https://img.shields.io/github/stars/OviIslmAbir?label=STARS&style=for-the-badge&color=FF00FF&labelColor=0D0221"/>
+<img src="https://komarev.com/ghpvc/?username=OviIslamAbir&label=PROFILE%20VIEWS&color=ff00ff&style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/github/followers/OviIslamAbir?label=FOLLOWERS&style=for-the-badge&color=6D28D9&labelColor=0D0221"/>
+<img src="https://img.shields.io/github/stars/OviIslamAbir?label=STARS&style=for-the-badge&color=FF00FF&labelColor=0D0221"/>
 
 </div>
 
@@ -184,12 +184,12 @@ status: "ONLINE"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OviIslmAbir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF&icon_color=FF00FF&ring_color=FF00FF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OviIslmAbir&theme=tokyonight&hide_border=true&background=0D0221&ring=00FFF7&fire=FF00FF&currStreakLabel=00FFF7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OviIslamAbir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF&icon_color=FF00FF&ring_color=FF00FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OviIslamAbir&theme=tokyonight&hide_border=true&background=0D0221&ring=00FFF7&fire=FF00FF&currStreakLabel=00FFF7" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OviIslmAbir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF&icon_color=FF00FF" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OviIslamAbir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF&icon_color=FF00FF" width="43%"/>
 
 </div>
 
@@ -199,7 +199,7 @@ status: "ONLINE"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OviIslmAbir&bg_color=0D0221&color=00FFF7&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=ABIR%20%2F%2F%20CODING%20ACTIVITY" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OviIslamAbir&bg_color=0D0221&color=00FFF7&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=ABIR%20%2F%2F%20CODING%20ACTIVITY" width="100%"/>
 
 </div>
 
@@ -209,7 +209,7 @@ status: "ONLINE"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OviIslmAbir&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=OviIslamAbir&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -219,7 +219,7 @@ status: "ONLINE"
 
 <div align="center">
 
-<img src="https://github.com/OviIslmAbir/OviIslmAbir/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github.com/OviIslamAbir/OviIslamAbir/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -305,7 +305,7 @@ status: "ONLINE"
 
 <div align="center">
 
-<a href="https://github.com/OviIslmAbir"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00FFF7"/></a>
+<a href="https://github.com/OviIslamAbir"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00FFF7"/></a>
 <a href="https://my-portfolio62.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D0221?style=for-the-badge&logo=vercel&logoColor=FF00FF"/></a>
 <a href="https://www.fiverr.com"><img src="https://img.shields.io/badge/FIVERR-0D0221?style=for-the-badge&logo=fiverr&logoColor=1DBF73"/></a>
 
