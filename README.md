@@ -1,252 +1,88 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                  ABIR // GITHUB PROFILE                    ║
-║             CYBERPUNK DEVELOPER INTERFACE                  ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6D28D9,100:FF00FF&height=220&section=header&text=ABIR%20//%20SYSTEM%20ONLINE&fontSize=42&fontColor=00FFF7&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Freelancer&descAlignY=58&descColor=FF00FF" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFF7&background=0D0221&center=true&vCenter=true&width=650&lines=%3E+Booting+dev.exe...;Full-Stack+Developer;React+%2B+Next.js+%2B+Node.js;Fiverr+Freelancer+%7C+E-Commerce+Builder;Turning+coffee+into+code...)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=OviIslmAbir&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge&labelColor=0D0221" alt="profile views"/>
+
+</div>
+
+---
+
+### `> whoami`
+
+```yaml
+name: Abir (Abhi Islam Abir)
+role: Full-Stack Developer | Fiverr Freelancer
+education: CSE Student @ BUBT (Intake 56, Section 5)
+focus: E-commerce apps, React ecosystems, backend architecture
+status: "Available for freelance gigs"
+```
+
+---
+
+### `> tech_stack.json`
 
 <div align="center">
 
-# `ABIR // DEVELOPER`
-
-### `FULL-STACK DEVELOPER • CODE ARCHITECT • PROBLEM SOLVER`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;FULL-STACK+DEVELOPER;BUILDING+DIGITAL+SYSTEMS;NEXT.JS+%7C+TYPESCRIPT+%7C+NODE.JS;WELCOME+TO+MY+DIGITAL+LAB" />
-
+**Frontend**
 <br/>
+![React](https://img.shields.io/badge/-React-0D0221?style=for-the-badge&logo=react&logoColor=00FFF7)
+![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=FF00FF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00FFF7)
 
-![Profile Views](https://komarev.com/ghpvc/?username=OviIslmAbir\&style=for-the-badge\&color=00ffff)
-![GitHub followers](https://img.shields.io/github/followers/OviIslmAbir?style=for-the-badge\&color=8a2be2)
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=00FF7F)
+![Express](https://img.shields.io/badge/-Express-0D0221?style=for-the-badge&logo=express&logoColor=FF00FF)
+![Prisma](https://img.shields.io/badge/-Prisma-0D0221?style=for-the-badge&logo=prisma&logoColor=00FFF7)
+
+**Database & Cloud**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=00FFF7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=00FF7F)
+![Firebase](https://img.shields.io/badge/-Firebase-0D0221?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 </div>
 
 ---
 
-## `> SYSTEM.INIT()`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     USER PROFILE                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       : ABIR                                           ║
-║  ROLE       : FULL-STACK DEVELOPER                           ║
-║  MODE       : BUILDING                                       ║
-║  STATUS     : ONLINE                                         ║
-║  LOCATION   : BANGLADESH                                     ║
-║                                                              ║
-║  MISSION    : Build scalable, useful and beautiful           ║
-║               digital experiences.                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> `I turn ideas into functional digital products.`
-
----
-
-## `> ABOUT_ME.exe`
-
-I'm a **Full-Stack Developer** focused on building modern web applications with clean architecture, scalable backend systems, and intuitive user experiences.
-
-```text
-[+] Building modern web applications
-[+] Designing RESTful APIs
-[+] Working with databases & backend architecture
-[+] Developing responsive frontend interfaces
-[+] Exploring new technologies
-[+] Turning complex problems into simple solutions
-```
-
-Currently focused on:
-
-```text
-NEXT.JS
-TYPESCRIPT
-NODE.JS
-EXPRESS.JS
-POSTGRESQL
-PRISMA
-MONGODB
-```
-
----
-
-## `> TECH_STACK --scan`
-
-### `FRONTEND`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### `BACKEND`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-</p>
-
-### `DATABASE`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### `TOOLS`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-## `> CURRENT_PROJECTS`
-
-### `01 // RENTNEST`
-
-```text
-TYPE        : Rental Marketplace
-ARCHITECTURE : Full-Stack Web Application
-STATUS      : ACTIVE DEVELOPMENT
-```
-
-A modern rental marketplace designed to connect **tenants and landlords** through property discovery, rental requests, payments and reviews.
-
-```text
-FEATURES
-├── Property Search & Filtering
-├── Tenant / Landlord Roles
-├── Rental Requests
-├── Authentication
-├── Payment Integration
-├── Reviews & Ratings
-└── Admin Management
-```
-
-**Stack**
-
-`Next.js` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `JWT`
-
----
-
-### `02 // MORE PROJECTS`
-
-```text
-PROJECT DATABASE // LOADING...
-
-[+] E-Commerce Systems
-[+] REST API Projects
-[+] Authentication Systems
-[+] Management Systems
-[+] Experimental Full-Stack Projects
-```
-
-> More projects are continuously being added to the system.
-
----
-
-## `> GITHUB_ANALYTICS`
+### `> system_stats.render()`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OviIslmAbir&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=OviIslmAbir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF&icon_color=FF00FF&ring_color=FF00FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OviIslmAbir&theme=tokyonight&hide_border=true&background=0D0221&ring=00FFF7&fire=FF00FF&currStreakLabel=00FFF7" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OviIslmAbir&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OviIslmAbir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF7&text_color=FFFFFF" width="50%"/>
 
 </div>
 
 ---
 
-## `> CONTRIBUTION_MATRIX`
+### `> contribution_grid.animate()`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OviIslmAbir&bg_color=00000000&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+<!--START_SECTION:activity-->
+<img src="https://github.com/OviIslmAbir/OviIslmAbir/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--END_SECTION:activity-->
 
 </div>
 
----
-
-## `> DEVELOPMENT_PROTOCOL`
-
-```text
-01. THINK
-    ↓
-02. DESIGN
-    ↓
-03. BUILD
-    ↓
-04. TEST
-    ↓
-05. DEBUG
-    ↓
-06. DEPLOY
-    ↓
-07. IMPROVE
-    ↓
-08. REPEAT
-```
-
-```bash
-$ git status
-
-> SYSTEM STATUS: ONLINE
-> CODE STATUS: BUILDING
-> DEBUG STATUS: NEVER GIVE UP
-```
+> ⚙️ Snake animation needs one-time setup — see notes below.
 
 ---
 
-## `> WHAT_I_BUILD`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ◈ Full-Stack Web Applications                             │
-│  ◈ RESTful APIs                                             │
-│  ◈ Authentication & Authorization                           │
-│  ◈ Database-Driven Applications                             │
-│  ◈ E-Commerce Platforms                                     │
-│  ◈ Rental / Marketplace Systems                             │
-│  ◈ Admin Dashboards                                         │
-│  ◈ Modern Responsive Interfaces                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> CONNECT_WITH_ME`
+### `> connect.exe`
 
 <div align="center">
 
-<a href="https://github.com/OviIslmAbir">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-
-<a href="https://my-portfolio62.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF" />
-</a>
+[![GitHub](https://img.shields.io/badge/-OviIslmAbir-0D0221?style=for-the-badge&logo=github&logoColor=00FFF7)](https://github.com/OviIslmAbir)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=FF00FF)](https://my-portfolio62.netlify.app)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-0D0221?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://fiverr.com)
 
 </div>
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 "BUILD. BREAK. DEBUG. REPEAT."              ║
-║                                                              ║
-║                    SYSTEM // ABIR_OS                         ║
-║                       ONLINE ⚡                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `Thanks for visiting my digital space.`
-
-`[ SYSTEM TERMINATED ]`
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:6D28D9,100:0D0221&height=100&section=footer" width="100%"/>
